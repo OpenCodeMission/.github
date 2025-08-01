@@ -4,7 +4,7 @@
 
 Open Code Mission is your AI memory engine—purpose-built for a new era of transparency, traceability, and user sovereignty. In a world tired of black-box systems and silent surveillance, OCM offers verifiable intelligence, memory-first AI, and compliance-ready architecture.  
 
-**🚀 Beta Launch: December 15, 2025 – [Join the Waitlist »](https://opencodemission.com)**
+**🚀 Beta Launch: December 15, 2025 – [Join the Waitlist »](https://ocmxai.com)**
 
 ---
 
