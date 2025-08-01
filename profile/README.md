@@ -4,7 +4,7 @@
 
 Open Code Mission is your AI memory engine—purpose-built for a new era of transparency, traceability, and user sovereignty. In a world tired of black-box systems and silent surveillance, OCM offers verifiable intelligence, memory-first AI, and compliance-ready architecture.  
 
-**🚀 Beta Launch: December 15, 2025 – [Join the Waitlist »](https://opencodemission.com)**
+**🚀 Beta Launch: December 15, 2025 – [Join the Waitlist »](https://ocmxai.com)**
 
 ---
 
@@ -89,16 +89,16 @@ Open Code Mission is your AI memory engine—purpose-built for a new era of tran
 
 ## 📰 Latest Research
 
-- [Prompt-to-Proof: How GDC v2 Powers OS Mission](https://opencodemission.com/news/gdc-v2)
-- [Tokenized Intelligence & Blockchain-Protected Neuroscience](https://opencodemission.com/news/tokenized-intelligence)
-- [MediaOPS: Verifiable Broadcasts, Redefined](https://opencodemission.com/news/mediaops)
+- [Prompt-to-Proof: How GDC v2 Powers OS Mission](https://ocmxai.com/news/gdc-v2)
+- [Tokenized Intelligence & Blockchain-Protected Neuroscience](https://ocmxai.com/news/tokenized-intelligence)
+- [MediaOPS: Verifiable Broadcasts, Redefined](https://ocmxai.com/news/mediaops)
 
 ---
 
 ## 📬 Contact
 
 Have questions? Want to collaborate?  
-📧 [Contact Us](https://opencodemission.com#contact)
+📧 [Contact Us](https://ocmxai.com#contact)
 
 ---
 
@@ -113,6 +113,6 @@ Have questions? Want to collaborate?
 > No Black Boxes. No Data Harvesting.  
 > Just Explainable AI You Control.
 
-👉 [Join the Waitlist](https://opencodemission.com)  
-🔗 [OpenCodeMission.com](https://opencodemission.com)
+👉 [Join the Waitlist](https://ocmxai.com)  
+🔗 [OpenCodeMission.com](https://ocmxai.com)
 
