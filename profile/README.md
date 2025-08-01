@@ -1,24 +1,14 @@
-# 🧠 Open Code Mission (OCM)
+<div align="center">
+  <img src="../ocm-logo.png" alt="Open Code Mission Logo" width="400"/>
+</div>
+
+#  Open Code Mission (OCM)
 
 **Built to Remember. Designed to Evolve.**
 
 Open Code Mission is your AI memory engine—purpose-built for a new era of transparency, traceability, and user sovereignty. In a world tired of black-box systems and silent surveillance, OCM offers verifiable intelligence, memory-first AI, and compliance-ready architecture.  
 
-**🚀 Beta Launch: December 15, 2025 – [Join the Waitlist »](https://ocmxai.com)**
-
----
-
-## 🌍 Why Now?
-
-- **💸 €35M fines | 63% ad-block adoption | One runaway chatbot later...**
-  Regulators and users demand receipts. OCM prints them.
-
-- **📍 Regional Compliance by Design**  
-  Geo-fenced nodes + BYOK encryption = no cross-border data hops.  
-  Compliant with **EU AI Act**, **Canadian AIDA**, and **U.S. AI Bill of Rights**.
-
-- **🔐 Zero Surveillance**  
-  No cookies. No server-side tracking. No silent observers.
+**🚀 Beta Launch – [Join the Waitlist »](https://ocmxai.com)**
 
 ---
 
@@ -84,14 +74,6 @@ Open Code Mission is your AI memory engine—purpose-built for a new era of tran
 | **Daniel Gillespie** | CEO & Founder | AI visionary, founder of @MEGAPROMPT, pioneer in transparent memory systems |
 | **Graham dePenros** | COO | 35+ years in ethics, $400M+ in exits, strategist behind AI governance |
 | **Traves Theberge** | CTO | Generative AI architect, DevOps lead, expert in scalable, secure systems |
-
----
-
-## 📰 Latest Research
-
-- [Prompt-to-Proof: How GDC v2 Powers OS Mission](https://ocmxai.com/news/gdc-v2)
-- [Tokenized Intelligence & Blockchain-Protected Neuroscience](https://ocmxai.com/news/tokenized-intelligence)
-- [MediaOPS: Verifiable Broadcasts, Redefined](https://ocmxai.com/news/mediaops)
 
 ---
 
