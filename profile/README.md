@@ -6,7 +6,7 @@
 
 **Built to Remember. Designed to Evolve.**
 
-Open Code Mission is your AI memory engine—purpose-built for a new era of transparency, traceability, and user sovereignty. In a world tired of black-box systems and silent surveillance, OCM offers verifiable intelligence, memory-first AI, and compliance-ready architecture.  
+Open Code Mission is your AI memory engine, purpose-built for a new era of transparency, traceability, and user sovereignty. In a world tired of black-box systems and silent surveillance, OCM offers verifiable intelligence, memory-first AI, and compliance-ready architecture.  
 
 **🚀 Beta Launch – [Join the Waitlist »](https://airtable.com/appGVmx8iDZXgdWJI/paggBwzocV67N5E3U/form)**
 
