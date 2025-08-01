@@ -54,5 +54,5 @@ Have questions? Want to collaborate?
 > Just Explainable AI You Control.
 
 👉 [Join the Waitlist](https://ocmxai.com)  
-🔗 [OpenCodeMission.com](https://ocmxai.com)
+🔗 [Ocmxai.com](https://ocmxai.com)
 
